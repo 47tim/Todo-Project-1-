@@ -1,5 +1,2 @@
-# Todo-Project-1-<img width="240" height="552" alt="Screenshot 2025-10-04 at 5 42 42 PM" src="https://github.com/user-attachments/assets/04f16c64-1dc0-46f1-b316-0f255face3d0" />
-<img width="240" height="552" alt="Screenshot 2025-10-04 at 5 43 31 PM" src="https://github.com/user-attachments/assets/5b086a96-faa2-46bf-9750-9ce7e94461b1" />
-
-
-<img width="240" height="552" alt="Screenshot 2025-10-04 at 5 43 31 PM" src="https://github.com/user-attachments/assets/86a1a719-56b5-45d0-98df-e348267d2f83" />
+<img width="240" height="552" alt="Screenshot 2025-10-04 at 5 42 42 PM" src="https://github.com/user-attachments/assets/86bd8b5a-9789-4686-817c-5be194b3c6ba" />
+<img width="240" height="552" alt="Screenshot 2025-10-04 at 5 43 31 PM" src="https://github.com/user-attachments/assets/9bed9395-4b8d-4623-898f-d4e05b2b18ad" />
